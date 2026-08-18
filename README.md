@@ -69,16 +69,16 @@ status:
 ## // telemetry
 
 <div align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=hendrykcosta75&theme=github-dark&hide_border=true&background=0D1117&ring=3FB950&fire=F46800&currStreakLabel=3FB950&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E" alt="GitHub streak stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hendrykcosta75&theme=github_dark" alt="GitHub stats" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hendrykcosta75&theme=github_dark" alt="Profile details" />
 </div>
 
 <div align="center">
-  <img width="720" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hendrykcosta75&theme=github_dark" alt="Profile details" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hendrykcosta75&theme=github_dark" alt="GitHub stats" />
 </div>
 
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3fb950&height=110&section=footer" alt="footer" />
 
-<!-- stack icons: skillicons.dev · streak: streak-stats.demolab.com · cards: github-profile-summary-cards · banner: hand-rolled terminal gif (assets/banner.gif) -->
+<!-- stack icons: skillicons.dev · cards: github-profile-summary-cards · views: komarev.com/ghpvc · banner: hand-rolled terminal gif (assets/banner.gif) -->
+<!-- nota: github-readme-stats (Vercel) está pausado e streak-stats.demolab.com está lento demais para o proxy do GitHub (~25s → 504); reavaliar depois. -->
