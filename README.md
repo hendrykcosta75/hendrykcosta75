@@ -40,6 +40,15 @@ status:
 > harnesses, orchestration, tool use, memory & evals.
 > the agent does the work; the harness makes it reliable.
 
+## // projects
+
+- **[PTGR](https://github.com/hendrykcosta75/ptgr)** — municipal ERP with AI agents: planning, execution and accountability in one system. `TypeScript · Bun · Postgres`
+- **[Rumo](https://github.com/hendrykcosta75/rumo-celpe-bras)** — Celpe-Bras exam prep with LLM essay grading on Inep's 0–5 scale and a speaking drill. `Next.js · Stripe · faster-whisper`
+- **[Baisync](https://github.com/hendrykcosta75/baisync)** — SaaS for AI customer-service agents on WhatsApp and Telegram, multi-LLM with RAG. `Rust · Axum · Cassandra`
+- **[Minhas finanças](https://github.com/hendrykcosta75/minhas-financas)** — personal finance dashboard driven by an agent over MCP, fed by Open Finance data. `Next.js · Drizzle · MCP`
+- **[Planeja+ MCP](https://github.com/hendrykcosta75/planejamais-claude-plugin)** — strategic planning MCP connector published in the Claude and OpenAI directories. `MCP · OAuth 2.1`
+- **[Code review agent](https://github.com/hendrykcosta75/code-review-agent)** — local agent that reviews untrusted diffs inside GitHub Actions pipelines. `Node · Actions`
+
 ## // stack
 
 **languages**
@@ -74,6 +83,7 @@ status:
 
 <div align="center">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hendrykcosta75&theme=github_dark" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hendrykcosta75&theme=github_dark" alt="Repos per language" />
 </div>
 
 ---
@@ -81,4 +91,4 @@ status:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3fb950&height=110&section=footer" alt="footer" />
 
 <!-- stack icons: skillicons.dev · cards: github-profile-summary-cards · views: komarev.com/ghpvc · banner: hand-rolled terminal gif (assets/banner.gif) -->
-<!-- nota: github-readme-stats (Vercel) está pausado e streak-stats.demolab.com está lento demais para o proxy do GitHub (~25s → 504); reavaliar depois. -->
+<!-- nota: github-readme-stats (Vercel) está pausado e streak-stats.demolab.com está lento demais para o proxy do GitHub (~25s → 504); top-langs por enquanto via repos-per-language do summary-cards. -->
