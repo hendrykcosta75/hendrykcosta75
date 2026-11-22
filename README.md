@@ -42,12 +42,10 @@ status:
 
 ## // projects
 
-- **[PTGR](https://github.com/hendrykcosta75/ptgr)** — municipal ERP with AI agents: planning, execution and accountability in one system. `TypeScript · Bun · Postgres`
 - **[Rumo](https://github.com/hendrykcosta75/rumo-celpe-bras)** — Celpe-Bras exam prep with LLM essay grading on Inep's 0–5 scale and a speaking drill. `Next.js · Stripe · faster-whisper`
 - **[Baisync](https://github.com/hendrykcosta75/baisync)** — SaaS for AI customer-service agents on WhatsApp and Telegram, multi-LLM with RAG. `Rust · Axum · Cassandra`
-- **[Minhas finanças](https://github.com/hendrykcosta75/minhas-financas)** — personal finance dashboard driven by an agent over MCP, fed by Open Finance data. `Next.js · Drizzle · MCP`
-- **[Planeja+ MCP](https://github.com/hendrykcosta75/planejamais-claude-plugin)** — strategic planning MCP connector published in the Claude and OpenAI directories. `MCP · OAuth 2.1`
-- **[Code review agent](https://github.com/hendrykcosta75/code-review-agent)** — local agent that reviews untrusted diffs inside GitHub Actions pipelines. `Node · Actions`
+- **[Planeja+ MCP](https://github.com/hendrykcosta75/planejamais-claude-plugin)** — strategic planning MCP connector published in the Claude, OpenAI, Hermes and Cursor directories. `MCP · OAuth 2.1`
+- **[OpenClaw dashboard](https://github.com/hendrykcosta75/openclaw-observability-dashboard)** — observability for agents in production: sessions, costs, logs and metrics. `Next.js · React`
 
 ## // stack
 
