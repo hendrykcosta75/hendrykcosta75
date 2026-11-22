@@ -6,8 +6,8 @@
   <a href="https://github.com/hendrykcosta75">
     <img src="https://komarev.com/ghpvc/?username=hendrykcosta75&style=flat-square&color=3fb950&label=profile+views" alt="profile views" />
   </a>
-  <img src="https://img.shields.io/badge/UFAL-Engenharia%20da%20Computa%C3%A7%C3%A3o-3fb950?style=flat-square&labelColor=0d1117" alt="UFAL — Engenharia da Computação" />
-  <img src="https://img.shields.io/badge/IFAL-T%C3%A9c.%20Desenvolvimento%20de%20Sistemas-39c5cf?style=flat-square&labelColor=0d1117" alt="IFAL — Téc. Desenvolvimento de Sistemas" />
+  <img src="https://img.shields.io/badge/UFAL-Computer%20Engineering-3fb950?style=flat-square&labelColor=0d1117" alt="UFAL — Computer Engineering" />
+  <img src="https://img.shields.io/badge/IFAL-Systems%20Development-39c5cf?style=flat-square&labelColor=0d1117" alt="IFAL — Systems Development" />
 </p>
 
 ---
@@ -20,8 +20,8 @@ kind: Engineer
 metadata:
   name: hendryk-costa
   labels:
-    university: "Engenharia da Computação — UFAL"
-    technical-degree: "Desenvolvimento de Sistemas — IFAL"
+    university: "Computer Engineering — UFAL"
+    technical-degree: "Systems Development — IFAL"
     location: "Alagoas, BR"
 spec:
   focus:
@@ -89,4 +89,4 @@ status:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3fb950&height=110&section=footer" alt="footer" />
 
 <!-- stack icons: skillicons.dev · cards: github-profile-summary-cards · views: komarev.com/ghpvc · banner: hand-rolled terminal gif (assets/banner.gif) -->
-<!-- nota: github-readme-stats (Vercel) está pausado e streak-stats.demolab.com está lento demais para o proxy do GitHub (~25s → 504); top-langs por enquanto via repos-per-language do summary-cards. -->
+<!-- note: github-readme-stats (Vercel) is paused and streak-stats.demolab.com is too slow for the GitHub proxy (~25s → 504); top languages via summary-cards repos-per-language for now. -->
